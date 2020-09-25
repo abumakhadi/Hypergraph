@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab9b2371-e054-465c-b7a4-478d64519a34" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hepergraph/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <folding>
+                <marker date="1600288818172" expanded="true" signature="37:1483" ph="{...}" />
+                <marker date="1600288818172" expanded="true" signature="82:1481" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hepergraph/Hypergraph.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <marker date="1601023804205" expanded="true" signature="6:85" ph="..." />
+                <marker date="1601023804205" expanded="true" signature="113:3850" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="289:542" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="627:903" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="753:897" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="997:1171" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="1243:1369" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="1513:1859" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="1566:1831" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="1653:1758" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="1919:2077" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="1965:2049" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="2160:2227" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="2314:2476" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="2536:3171" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="2773:3126" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="2929:3116" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="3228:3503" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="3609:3848" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="3716:3808" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="3874:3990" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="3953:3988" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="4012:4464" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="4079:4133" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="4187:4237" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="4276:4318" ph="{...}" />
+                <marker date="1601023804205" expanded="true" signature="4408:4462" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hepergraph/Hepergraph.csproj">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hepergraph.sln">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/96A29805-40AC-4006-B7A0-4455C3E3AD39/9e/fd7367bb/IEnumerable`1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/96A29805-40AC-4006-B7A0-4455C3E3AD39/9e/fd7367bb/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hepergraph/Hypergraph.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hepergraph/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Hepergraph/Hepergraph.cs" />
+        <option value="$PROJECT_DIR$/Hepergraph/Program.cs" />
+        <option value="$PROJECT_DIR$/Hepergraph/Hypergraph.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Hepergraph" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Hepergraph" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Hepergraph" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Hepergraph">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hepergraph" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Hepergraph/Hepergraph.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.Hepergraph" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab9b2371-e054-465c-b7a4-478d64519a34" name="Default Changelist" comment="" />
+      <created>1600285135870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600285135870</updated>
+      <workItem from="1600285136970" duration="4125000" />
+      <workItem from="1600976552766" duration="2938000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7063000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15102041" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32959184" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/96A29805-40AC-4006-B7A0-4455C3E3AD39/9e/fd7367bb/IEnumerable`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hepergraph/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <marker date="1600288818172" expanded="true" signature="37:1483" ph="{...}" />
+            <marker date="1600288818172" expanded="true" signature="82:1481" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hepergraph/Hypergraph.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <marker date="1601023804205" expanded="true" signature="6:85" ph="..." />
+            <marker date="1601023804205" expanded="true" signature="113:3850" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="289:542" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="627:903" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="753:897" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="997:1171" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="1243:1369" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="1513:1859" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="1566:1831" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="1653:1758" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="1919:2077" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="1965:2049" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="2160:2227" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="2314:2476" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="2536:3171" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="2773:3126" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="2929:3116" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="3228:3503" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="3609:3848" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="3716:3808" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="3874:3990" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="3953:3988" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="4012:4464" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="4079:4133" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="4187:4237" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="4276:4318" ph="{...}" />
+            <marker date="1601023804205" expanded="true" signature="4408:4462" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hepergraph/Hepergraph.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hepergraph.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+/Users/a.abumakhadi/Hepergraph/Hepergraph/obj/Debug/.NETFramework,Version=v4.6.AssemblyAttribute.cs
+/Users/a.abumakhadi/Hepergraph/Hepergraph/bin/Debug/Hepergraph.pdb
+/Users/a.abumakhadi/Hepergraph/Hepergraph/bin/Debug/Hepergraph.exe
+/Users/a.abumakhadi/Hepergraph/Hepergraph/obj/Debug/Hepergraph.exe
+/Users/a.abumakhadi/Hepergraph/Hepergraph/obj/Debug/Hepergraph.pdb
