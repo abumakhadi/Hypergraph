@@ -8,6 +8,9 @@ public class Hypergraph<T>
     public readonly List<Vertex<T>> Vertices;
     public readonly List<Edge<T>> Edges;
 
+    //Is multi
+    public bool IsMultiHyperGraph => GetEvenEdges().Length > 0;
+
     //Initialize graph from size and order
     public Hypergraph(int size, int order)
     {
@@ -105,6 +108,52 @@ public class Hypergraph<T>
         return edges1.Intersect(edges2).Any();
     }
 
+    //Is two edges even
+    public bool IsEven(Edge<T> e1, Edge<T> e2)
+    {
+        return e1.Vertices.Intersect(e2.Vertices).Count() == e1.Length;
+    }
+
+    //Is another graph subgraph
+    public bool IsSubGraph(Hypergraph<T> hypergraph)
+    {
+        int edgesInCommon = hypergraph.Edges.Intersect(hypergraph.Edges).Count();
+
+        if (edgesInCommon >= Edges.Count && edgesInCommon <= 0)
+            return false;
+        
+        int verticesInCommon = hypergraph.Vertices.Intersect(hypergraph.Vertices).Count();
+
+        if (verticesInCommon >= Vertices.Count && verticesInCommon <= 0)
+            return false;
+
+        return true;
+    }
+    
+    //Get all event edges
+    public Edge<T>[] GetEvenEdges(){
+
+        List<Edge<T>> result = new List<Edge<T>>();
+            
+        for (int i = 0; i < Edges.Count; i++)
+        {
+            for (int j = 0; j < Edges.Count; j++)
+            {
+                if (i == j)
+                    continue;
+
+                if (IsEven(Edges[i], Edges[j]))
+                {
+                    result.Add(Edges[i]);
+                    result.Add(Edges[j]);
+                }
+            }
+        }
+
+        return result.ToArray();
+    }
+
+
     //Visulize graph
     public override string ToString()
     {
@@ -161,6 +210,10 @@ public class Hypergraph<T>
 
         return result.ToArray();
     }
+    
+    
+
+    
 }
 
 public class Vertex<T>
